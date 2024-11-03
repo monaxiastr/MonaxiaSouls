@@ -10,7 +10,7 @@
 
 4. Change female-young voices to yukkuri voices
 
-5. Ashen Estus Bottle removed. As an alternative, some rings will give continuous recovery on focus value
+5. Some rings will give continuous recovery on focus value
 
 6. Bonfire at Firelink Shrine now provide more services
 
