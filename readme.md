@@ -20,7 +20,7 @@
 
 1.  Modengine only:
 
-    Download files from branch 'main' and 'modengine'
+    Download files from branch 'main'
 
     Put all downloaded files into 'Game' (DS3 game root category), if prompted for duplicate files, select overwrite
 
